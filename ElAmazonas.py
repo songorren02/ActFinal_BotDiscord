@@ -23,4 +23,5 @@ async def ping(ctx):
   await ctx.send("pong!")
   
 #Para que el bot pueda leer los comandos usamos .run(token)
+#El token ha sido cambiado por estar publico
 bot.run("MTI0NTM4MzczNzgyMzQ2NTYwNA.GnXaJK.X6BA7tjAnEztcy17z3YHRyP_vrU7-mpia6eI2o")
